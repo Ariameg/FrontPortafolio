@@ -1,0 +1,26 @@
+
+.card {
+    width: 100%;
+    background: white;
+    padding: 1px;
+    border-radius: 20px;
+}
+.proyecto { 
+    background: rgb(227, 208, 236);;
+    padding: 10px;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}   
+img {
+    width: 40%;
+}
+
+ul {padding: 0;
+    list-style: none;
+    margin: 0;
+}
